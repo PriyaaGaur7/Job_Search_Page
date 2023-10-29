@@ -1,0 +1,44 @@
+.search-container{
+    position: relative;
+    height: 90px;
+    width: 70%;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    margin-left: 15%;
+    border-radius: 30px;
+    border: 7px solid black;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+p{
+    font-size: 30px;
+    padding: 10px;
+}
+.filter-dropdown{
+    background-color: black;
+    color: white;
+    margin: 15px;
+    border: 7px solid white;
+}
+.checkbox-label{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.srch{
+    height: 45px;
+    width: 70%;
+    border-radius: 15px;
+    margin: 10px;
+    font-size: 27px;
+}
+.btn{
+    height: 40px;
+    width: 80px;
+    font-size: 22px;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+}

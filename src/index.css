@@ -1,0 +1,12 @@
+@import "../src/styles/Header.css";
+@import "../src/styles/Job.css";
+@import "../src/styles/Search.css";
+@import "../src/styles/JobListing.css";
+@import "../src/styles/JobDetails.css";
+@import "../src/styles/Footer.css";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

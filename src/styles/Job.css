@@ -1,0 +1,24 @@
+.card-body{
+    height: 270px;
+    width: 100%;
+    background-color: rgb(173, 173, 173);
+}
+.nrml{
+    font-size: 45px;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 15px;
+    flex-wrap: wrap;
+}
+.card-title{
+    font-size: 35px;
+    padding-top: 10px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.card-text{
+    font-size: 25px;
+    padding-top: 10px;
+    flex-wrap: wrap;
+    text-align: center;
+}

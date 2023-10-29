@@ -1,0 +1,12 @@
+nav div{
+    height: 100px;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+nav h1{
+    font-size: 40px;
+    padding: 20px;
+    text-align: left;
+    text-decoration: none;
+}
