@@ -72,7 +72,7 @@ function App() {
         />
         <Route path="/job/:jobId" element={<JobDetails jobData={JobData} />} />
       </Routes>
-      <Footer/>
+      
     </BrowserRouter>
   );
 }

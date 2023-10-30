@@ -1,15 +1,17 @@
 .search-container{
     position: relative;
+    top: 70px;
     height: 90px;
-    width: 70%;
+    width: 35%;
     background-color: white;
     color: black;
     margin-top: 20px;
-    margin-left: 15%;
+    /*margin-left: 15%;*/
     border-radius: 30px;
     border: 7px solid black;
     text-align: center;
     flex-wrap: wrap;
+    display: block;
 }
 
 p{
@@ -19,7 +21,7 @@ p{
 .filter-dropdown{
     background-color: black;
     color: white;
-    margin: 15px;
+    margin: 35px;
     border: 7px solid white;
 }
 .checkbox-label{

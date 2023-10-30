@@ -1,6 +1,7 @@
 .job-listing{
     height: 280px;
-    width: 100%;
+    width: 60%;
+    float: right;
     margin: 10px;
     background-color: black;
     color: white;
